@@ -2,6 +2,9 @@
 
 This is the work of Bill Byrne, and Saravanan Ganesh from Google LLC, made available under the Creative Commons Attribution 4.0 License. A full copy of the license can be found at https://creativecommons.org/licenses/by/4.0/
 
+# PAPER
+These datasets are released with the paper 'PERL: Parameter Efficient Reinforcement Learning from Human Feedback' at https://arxiv.org/abs/2403.10704. Please cite accordingly.
+
 # DATA
 
 ## BASICS
